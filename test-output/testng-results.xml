@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T11:00:23 AEST" name="Suite" finished-at="2023-07-12T11:00:55 AEST" duration-ms="31955">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T11:00:23 AEST" name="Test" finished-at="2023-07-12T11:00:55 AEST" duration-ms="31955">
+      <class name="test_Cases.Signup_Test_Cases">
+        <test-method is-config="true" signature="Launch_Browser_URL()[pri:0, instance:test_Cases.Signup_Test_Cases@6a78afa0]" started-at="2023-07-12T11:00:40 AEST" name="Launch_Browser_URL" finished-at="2023-07-12T11:00:44 AEST" duration-ms="3956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser_URL -->
+        <test-method signature="Signup_Verification()[pri:0, instance:test_Cases.Signup_Test_Cases@6a78afa0]" started-at="2023-07-12T11:00:44 AEST" name="Signup_Verification" finished-at="2023-07-12T11:00:55 AEST" duration-ms="11550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup_Verification -->
+      </class> <!-- test_Cases.Signup_Test_Cases -->
+      <class name="test_Cases.Login_Test_Cases">
+        <test-method is-config="true" signature="Launch_Browser_URL()[pri:0, instance:test_Cases.Login_Test_Cases@2d3379b4]" started-at="2023-07-12T11:00:23 AEST" name="Launch_Browser_URL" finished-at="2023-07-12T11:00:30 AEST" duration-ms="6760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser_URL -->
+        <test-method signature="Verify_Login(java.lang.String,java.lang.String)[pri:0, instance:test_Cases.Login_Test_Cases@2d3379b4]" started-at="2023-07-12T11:00:30 AEST" name="Verify_Login" data-provider="testData" finished-at="2023-07-12T11:00:31 AEST" duration-ms="677" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+        <test-method is-config="true" signature="Launch_Browser_URL()[pri:0, instance:test_Cases.Login_Test_Cases@2d3379b4]" started-at="2023-07-12T11:00:31 AEST" name="Launch_Browser_URL" finished-at="2023-07-12T11:00:34 AEST" duration-ms="3571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser_URL -->
+        <test-method signature="Verify_Login(java.lang.String,java.lang.String)[pri:0, instance:test_Cases.Login_Test_Cases@2d3379b4]" started-at="2023-07-12T11:00:34 AEST" name="Verify_Login" data-provider="testData" finished-at="2023-07-12T11:00:35 AEST" duration-ms="630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samartha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+        <test-method is-config="true" signature="Launch_Browser_URL()[pri:0, instance:test_Cases.Login_Test_Cases@2d3379b4]" started-at="2023-07-12T11:00:35 AEST" name="Launch_Browser_URL" finished-at="2023-07-12T11:00:39 AEST" duration-ms="4082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Browser_URL -->
+        <test-method signature="Verify_Login(java.lang.String,java.lang.String)[pri:0, instance:test_Cases.Login_Test_Cases@2d3379b4]" started-at="2023-07-12T11:00:39 AEST" name="Verify_Login" data-provider="testData" finished-at="2023-07-12T11:00:40 AEST" duration-ms="663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sayu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vidhu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+      </class> <!-- test_Cases.Login_Test_Cases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
